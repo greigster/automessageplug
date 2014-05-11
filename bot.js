@@ -1,4 +1,4 @@
-var msgs=["!afks","Dont like the song? do !voteskip","Welcome to AUXMusic"]; //default msgs, add as many as you like.
+var msgs=["Please dont add rude / innapropiate songs","/me Dont like the song? do !voteskip","/me Welcome to AUXMusic", "/me Please dont spam the chat", "/me Please speak in english only"]; //default msgs, add as many as you like.
 var time=3600; //in seconds
 var timer;
 API.on(API.CHAT_COMMAND, command);
