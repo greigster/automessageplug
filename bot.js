@@ -1,4 +1,4 @@
-var msgs=["Please dont add rude / innapropiate songs","Dont like the song? do !voteskip","Welcome to SpartanCraft", "Please dont spam the chat", "Please speak in english only", "You can become a VIP at http://j.mp/sc_donate"]; //default msgs, add as many as you like.
+var msgs=["Please dont add rude / innapropiate songs","Dont like the song? do !voteskip","Welcome to SpartanCraft", "Please dont spam the chat", "Please speak in english only", "You can become a VIP at http://j.mp/sc_donate",".whymeh",".whywoot","You can use commands like .huh {player}"]; //default msgs, add as many as you like.
 var time=3600; //in seconds
 var timer;
 API.on(API.CHAT_COMMAND, command);
