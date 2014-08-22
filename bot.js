@@ -1,4 +1,4 @@
-var msgs=[":underage: Please dont add rude / inappropriate songs :underage:",":information_source: Dont like the song? do !voteskip  :information_source:","Welcome to SpartanCraft", "Please dont spam the chat", ":gb: Please speak in English only :gb:", ":dollar: You can become a VIP at http://j.mp/sc_donate :dollar:",".whymeh",".whywoot",":bangbang: You can use commands like .hug user  :bangbang:"]; //default msgs, add as many as you like.
+var msgs=[":underage: Please dont add rude / inappropriate songs :underage:",":information_source: Dont like the song? do !voteskip  :information_source:","Welcome to Melons PlugDJ Stream Channel", "We usually answer questions in the twitch chat", ":gb: Please speak in English only :gb:", ":dollar: You can become a VIP at http://j.mp/sc_donate :dollar:","Connor is the producer of the Streams by titrationgaming, melon_plays and redstone_plays","The theme of the music EDM",":bangbang: You can use commands like !cookie  :bangbang:"]; //default msgs, add as many as you like.
 var time=3600; //in seconds
 var timer;
 API.on(API.CHAT_COMMAND, command);
